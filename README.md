@@ -27,18 +27,18 @@
 This script processes files within a project directory by minifying JavaScript files and copying other file types to a specified output directory. It leverages the Terser library for minification and tracks the size reduction achieved, reporting in kilobytes.
 
 ## Table of Contents
-1. [Features](#features)
-2. [Prerequisites](#prerequisites)
-3. [Setup](#setup)
-4. [Running the Script](#running-the-script)
-5. [Output](#output)
-6. [Error Handling](#error-handling)
-7. [Contributing](#contributing)
-8. [License](#license)
-9. [Author](#author)
-10. [Contributors](#contributors)
-11. [Contact](#contact)
-12. [Acknowledgments](#acknowledgments)
+1. [Features](#features-)
+2. [Prerequisites](#prerequisites-)
+3. [Setup](#setup-)
+4. [Running the Script](#running-the-script-)
+5. [Output](#output-)
+6. [Error Handling](#error-handling-)
+7. [Contributing](#contributing-)
+8. [License](#license-)
+9. [Author](#author-)
+10. [Contributors](#contributors-)
+11. [Contact](#contact-)
+12. [Acknowledgments](#acknowledgments-)
 
 ## Features 🌟
 
