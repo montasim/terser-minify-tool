@@ -1,0 +1,49 @@
+{
+  "name": "terser-minify-tool",
+  "version": "1.0.0",
+  "description": "This script is designed to process files within a project directory by minifying JavaScript files and copying other file types to a specified output directory. It leverages the Terser library for minification and tracks the size reduction achieved, reporting in kilobytes.",
+  "main": "terser.js",
+  "engines": {
+    "node": ">=20.x",
+    "yarn": ">=1.22.x"
+  },
+  "scripts": {
+    "dev": "nodemon terser.js",
+    "build": "node terser.js"
+  },
+  "repository": {
+    "url": "https://github.com/montasim/terser-minify-tool.git"
+  },
+  "author": {
+    "name": "Mohammad Montasim -Al- Mamun Shuvo",
+    "email": "montasimmamun@gmail.com",
+    "mobile": "+8801722815469",
+    "portfolio": "https://montasim-dev.web.app/",
+    "linkedin": "https://www.linkedin.com/in/montasim",
+    "github": "https://github.com/montasim"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express",
+    "github",
+    "svg",
+    "visitor counter",
+    "web service",
+    "api",
+    "node.js",
+    "dynamic svg",
+    "real-time",
+    "server",
+    "web application",
+    "counter",
+    "customizable svg"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "glob": "^10.4.2",
+    "nodemon": "^3.1.4",
+    "terser": "^5.31.1"
+  }
+}
