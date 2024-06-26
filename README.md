@@ -1,7 +1,5 @@
 # Terser Minify Tool 🚀
 
-This script processes files within a project directory by minifying JavaScript files and copying other file types to a specified output directory. It leverages the Terser library for minification and tracks the size reduction achieved, reporting in kilobytes.
-
 <!-- repository summary badges start -->
 <div>
     <img alt="GitHub forks" src="https://img.shields.io/github/forks/montasim/terser-minify-tool?style=social">
@@ -25,6 +23,8 @@ This script processes files within a project directory by minifying JavaScript f
     <img alt="GitHub Discussions" src="https://img.shields.io/github/discussions/montasim/terser-minify-tool">
 </div>
 <!-- repository summary badges end -->
+
+This script processes files within a project directory by minifying JavaScript files and copying other file types to a specified output directory. It leverages the Terser library for minification and tracks the size reduction achieved, reporting in kilobytes.
 
 ## Table of Contents
 1. [Features](#features)
