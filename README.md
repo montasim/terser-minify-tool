@@ -24,6 +24,8 @@
 </div>
 <!-- repository summary badges end -->
 
+<br/>
+
 This script processes files within a project directory by minifying JavaScript files and copying other file types to a specified output directory. It leverages the Terser library for minification and tracks the size reduction achieved, reporting in kilobytes.
 
 ## Table of Contents
