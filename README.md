@@ -2,25 +2,21 @@
 
 <!-- repository summary badges start -->
 <div>
-    <img alt="GitHub forks" src="https://img.shields.io/github/forks/montasim/terser-minify-tool?style=social">
-    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/montasim/terser-minify-tool?style=social">
-    <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/montasim/terser-minify-tool?style=social">
-    <img alt="build update badge" src="https://img.shields.io/github/actions/workflow/terser-minify-tool/montasim/montasim/update-readme.yml"/>
-    <img alt="language badge" src="https://img.shields.io/github/languages/count/montasim/terser-minify-tool"/>
-    <img alt="top language badge" src="https://img.shields.io/github/languages/top/montasim/terser-minify-tool">
-    <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/montasim/terser-minify-tool">
-    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/montasim/terser-minify-tool">
-    <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/montasim/terser-minify-tool/total">
-    <img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/montasim/terser-minify-tool">
-    <img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed-raw/montasim/terser-minify-tool">
-    <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr-raw/montasim/terser-minify-tool">
-    <img alt="GitHub closed pull requests" src="https://img.shields.io/github/issues-pr-closed-raw/montasim/terser-minify-tool">
-    <img alt="GitHub milestones" src="https://img.shields.io/github/milestones/open/montasim/terser-minify-tool">
-    <img alt="GitHub milestones" src="https://img.shields.io/github/milestones/closed/montasim/terser-minify-tool">
-    <img alt="GitHub" src="https://img.shields.io/github/license/montasim/terser-minify-tool">
-    <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/montasim/terser-minify-tool">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/montasim/terser-minify-tool">
-    <img alt="GitHub Discussions" src="https://img.shields.io/github/discussions/montasim/terser-minify-tool">
+    <img alt="GitHub contributors badge" src="https://img.shields.io/github/contributors/montasim/terser-minify-tool?labelColor=EB008B&color=00B8B5">
+    <img alt="GitHub language count badge" src="https://img.shields.io/github/languages/count/montasim/terser-minify-tool?labelColor=EB008B&color=00B8B5"/>
+    <img alt="GitHub top language badge" src="https://img.shields.io/github/languages/top/montasim/terser-minify-tool?labelColor=EB008B&color=00B8B5">
+    <img alt="GitHub code size badge" src="https://img.shields.io/github/languages/code-size/montasim/terser-minify-tool?labelColor=EB008B&color=00B8B5">
+    <img alt="GitHub repo size badge" src="https://img.shields.io/github/repo-size/montasim/terser-minify-tool?labelColor=EB008B&color=00B8B5">
+    <img alt="GitHub file count badge" src="https://img.shields.io/github/directory-file-count/montasim/terser-minify-tool?labelColor=EB008B&color=00B8B5">
+    <img alt="GitHub open issues badge" src="https://img.shields.io/github/issues-raw/montasim/terser-minify-tool?labelColor=EB008B&color=00B8B5">
+    <img alt="GitHub closed issues badge" src="https://img.shields.io/github/issues-closed-raw/montasim/terser-minify-tool?labelColor=EB008B&color=00B8B5">
+    <img alt="GitHub open pull requests badge" src="https://img.shields.io/github/issues-pr-raw/montasim/terser-minify-tool?labelColor=EB008B&color=00B8B5">
+    <img alt="GitHub closed pull requests badge" src="https://img.shields.io/github/issues-pr-closed-raw/montasim/terser-minify-tool?labelColor=EB008B&color=00B8B5">
+    <img alt="GitHub active milestones badge" src="https://img.shields.io/github/milestones/open/montasim/terser-minify-tool?labelColor=EB008B&color=00B8B5">
+    <img alt="GitHub completed milestones badge" src="https://img.shields.io/github/milestones/closed/montasim/terser-minify-tool?labelColor=EB008B&color=00B8B5">
+    <img alt="GitHub license badge" src="https://img.shields.io/github/license/montasim/terser-minify-tool?labelColor=EB008B&color=00B8B5">
+    <img alt="GitHub last commit badge" src="https://img.shields.io/github/last-commit/montasim/terser-minify-tool?labelColor=EB008B&color=00B8B5">
+    <img alt="GitHub Discussions badge" src="https://img.shields.io/github/discussions/montasim/terser-minify-tool?labelColor=EB008B&color=00B8B5">
 </div>
 <!-- repository summary badges end -->
 
